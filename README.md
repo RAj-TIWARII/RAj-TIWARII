@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raj-tiwarii" alt="raj-tiwarii" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rajztiwari" target="_blank"><img src="https://img.shields.io/twitter/follow/rajztiwari?logo=twitter&style=for-the-badge" alt="rajztiwari" </a> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-tiwari-822479263/) [![Twitter]([https://img.shields.io/twitter/url/](https://img.shields.io/twitter/url.svg?style=social&url=https%3A%2F%2Fshields.io))](https://twitter.com/rajztiwari)
 
 - Hey, I'm Raj Tiwari. I'm currently working on VOLTVOYAGE, a project dedicated to documenting space missions and the science behind them. The project provides detailed insights into the technology and research driving space exploration. **VOLTVOYAGE**
 
@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/rajtiwarii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rajtiwarii" height="30" width="40" /></a>
-<a href="https://twitter.com/rajztiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajztiwari" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajztiwari" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/raj-tiwari-822479263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raj-tiwari-822479263" height="30" width="40" /></a>
 <a href="https://codesandbox.com/raj-tiwarii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="raj-tiwarii" height="30" width="40" /></a>
 <a href="https://instagram.com/rajztiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajztiwari" height="30" width="40" /></a>
