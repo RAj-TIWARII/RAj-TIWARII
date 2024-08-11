@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raj Tiwari</h1>
 <h3 align="center">Electronic engineering, Web Devlopment and Programming. fascinated by space exploration and technology. Dedicated follower of ISRO missions.</h3>
-<img src="https://raw.githubusercontent.com/KarthikeyaEnge/KarthikeyaEnge/main/think.gif" alt="coding gif"/>
+<img src="https://raw.githubusercontent.com/KarthikeyaEnge/KarthikeyaEnge/main/think.gif" alt="coding gif" width=40/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj-tiwarii&label=Profile%20views&color=0e75b6&style=flat" alt="raj-tiwarii" /> </p>
 
