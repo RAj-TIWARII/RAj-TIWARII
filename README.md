@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://user-images.githubusercontent.com/1016143/187770506-39e896ca-5495-4695-94c9-6976a4ef0445.gif"/>Hi 👋, I'm Raj Tiwari</h1> 
+<h1 align="center"><img src="https://user-images.githubusercontent.com/1016143/187770506-39e896ca-5495-4695-94c9-6976a4ef0445.gif" width="50"/>Hi 👋, I'm Raj Tiwari</h1> 
 <h3 align="center">Electronic engineering, Web Devlopment and Programming. fascinated by space exploration and technology. Dedicated follower of ISRO missions.</h3>
 <img src="https://raw.githubusercontent.com/KarthikeyaEnge/KarthikeyaEnge/main/think.gif" alt="coding gif" width=80%/>
 
