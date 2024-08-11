@@ -6,7 +6,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raj-tiwarii" alt="raj-tiwarii" /></a> </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-tiwari-822479263/) [![Twitter]([https://img.shields.io/twitter/url/](https://img.shields.io/twitter/url.svg?style=social&url=https%3A%2F%2Fshields.io))](https://twitter.com/rajztiwari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-tiwari-822479263/) 
+[![Twitter](https://camo.githubusercontent.com/e97449103b99db365dca0ff65af4a8b068a831136dc0a156239a71dff4223dba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747769747465722d2532333144413146322e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465)](https://twitter.com/rajztiwari)
 
 - Hey, I'm Raj Tiwari. I'm currently working on VOLTVOYAGE, a project dedicated to documenting space missions and the science behind them. The project provides detailed insights into the technology and research driving space exploration. **VOLTVOYAGE**
 
