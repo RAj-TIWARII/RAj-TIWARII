@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raj Tiwari</h1>
-<h3 align="center">Electronic engineering, Web Devlopment and Programming. fascinated by space exploration and technology. Dedicated follower of ISRO missions.</h3>
+<h3 align="center">Hi, I'm Raj Tiwari from Bangalore, Karnataka, India. I'm an Electronics and Programming student at BMS College of Engineering, currently working on VOLTVOYAGE—a project dedicated to documenting space missions and the science behind them.
+
+.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj-tiwarii&label=Profile%20views&color=0e75b6&style=flat" alt="raj-tiwarii" /> </p>
 
