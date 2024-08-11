@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raj Tiwari</h1>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/1016143/187770506-39e896ca-5495-4695-94c9-6976a4ef0445.gif"/>Hi 👋, I'm Raj Tiwari</h1> 
 <h3 align="center">Electronic engineering, Web Devlopment and Programming. fascinated by space exploration and technology. Dedicated follower of ISRO missions.</h3>
 <img src="https://raw.githubusercontent.com/KarthikeyaEnge/KarthikeyaEnge/main/think.gif" alt="coding gif" width=80%/>
 
@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raj-tiwarii" alt="raj-tiwarii" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rajztiwari" target="blank"><img src="https://img.shields.io/twitter/follow/rajztiwari?logo=twitter&style=for-the-badge" alt="rajztiwari" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rajztiwari" target="_blank"><img src="https://img.shields.io/twitter/follow/rajztiwari?logo=twitter&style=for-the-badge" alt="rajztiwari" </a> </p>
 
 - Hey, I'm Raj Tiwari. I'm currently working on VOLTVOYAGE, a project dedicated to documenting space missions and the science behind them. The project provides detailed insights into the technology and research driving space exploration. **VOLTVOYAGE**
 
