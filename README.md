@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/rajtiwarii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rajtiwarii" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajztiwari" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://imgs.search.brave.com/sJG-0IZsLYNSIT510EsGIDyuqryDBbeV1awvRrqAEkM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbi1pY29ucy5j/b20vaWNvbnMyLzQw/MjkvUE5HLzUxMi90/d2l0dGVyX3hfbmV3/X2xvZ29fc3F1YXJl/X3hfaWNvbl8yNTYw/NzUucG5n" alt="rajztiwari" style="max-width: 10%; margin-top: 5px;"/></a>
 <a href="https://linkedin.com/in/raj-tiwari-822479263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raj-tiwari-822479263" height="30" width="40" /></a>
 <a href="https://codesandbox.com/raj-tiwarii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="raj-tiwarii" height="30" width="40" /></a>
 <a href="https://instagram.com/rajztiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajztiwari" height="30" width="40" /></a>
