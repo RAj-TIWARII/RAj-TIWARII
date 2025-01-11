@@ -13,7 +13,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me:
 
 ```javascript
-const abhayMahendera = {
+const RAj Tiwari = {
     code: ["C", "C++", "JavaScript", "Java", "Python", "R","Rust"],
     askMeAbout: ["data analysis", "web development", "tech", "app development", "3D Animation"],
     technologies: {
