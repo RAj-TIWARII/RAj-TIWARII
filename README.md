@@ -29,9 +29,9 @@ const RAj Tiwari = {
 ### Here's a little more about me:
 
 - 💻 I'm passionate about coding and enjoy exploring new technologies.
-- 📊 Data analysis and visualization are my areas of expertise.
 - 🌱 I'm currently learning machine learning algorithms.
 - 📸3D Animation is my creative outlet when I'm not coding.
+
 
 Feel free to reach out and connect!
 
