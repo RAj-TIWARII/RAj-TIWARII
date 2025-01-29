@@ -17,7 +17,7 @@ const RAj Tiwari = {
     code: ["C", "C++", "JavaScript", "Java", "Python", "R","Rust"],
     askMeAbout: ["data analysis", "web development", "tech", "app development", "3D Animation"],
     technologies: {
-        programmingLanguages: ["C", "C++", "JavaScript", "Java", "Python", "R" , "Rust"],
+        programmingLanguages: ["C", "C++", "PHP", "JavaScript", "Java", "Python", "R" , "Rust"],
         databases: ["MySQL", "MongoDB", "pgAdmin"],
         designAndIdeTools: ["MS Visual Studio Code", "IntelliJ Idea", "MS Office", "GitHub"],
         webDevelopment: ["HTML5", "CSS3", "ES6", "Node.js", "Express.js","React" , "Bootstrap", "NPM", "jQuery", "APIs", "EJS"],
