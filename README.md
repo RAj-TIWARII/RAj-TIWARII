@@ -141,9 +141,13 @@ const rajTiwari = {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,FF6B6B,00D9FF,FFD93D&height=120&section=footer&animation=fadeIn" alt="Footer"/>
   
-  **Thanks for visiting! Let's connect and build something amazing together! 🚀**
+  <h3>🚀 "That's one small step for code, one giant leap for digital humanity!" 🌌</h3>
   
+  <p><em>Ready to embark on an interstellar coding adventure? Let's build the future together!</em></p>
+  
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee"/>
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
+  <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" alt="Makes People Smile"/>
 </div>
