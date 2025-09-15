@@ -116,25 +116,27 @@ approximately 28,000 km/h (17,500 mph)!
 
 ---
 
-## 🎮 Mini Games Section
+## 🎮 Interactive Space Activities
 
-### 🎯 Target Practice
+### 🎯 Asteroid Target Practice
 ```
-    🎯 <- Hit the target!
-   /||\    Score: 0
-   / \\    
-```
-
-### 🚀 Rocket Launch Simulator
-```
-         🚀
-        /||\
-       //||\\
-      ///||\\\\
-    =============
-    🌍 Earth Base
+    💥 ☄️ 💥 ☄️ 💥      Score: 2500 points!
+      \   |   /
+       \  |  /
+        \ | /
+         🚀 <- Your Ship
     
-    [Launch Sequence Initiated] ⭐
+    Mission: Destroy incoming asteroids!
+```
+
+### 🛸 UFO Tracker
+```
+      🛸         🛸
+    /  👽  \   /  👽  \
+   ╰────────╯ ╰────────╯
+   
+   Status: 2 UFOs detected in sector 7G
+   Action: [Investigate] [Report] [Follow]
 ```
 
 ---
