@@ -16,10 +16,10 @@
 ```javascript
 const rajTiwari = {
     location: "India 🇮🇳",
-    currentFocus: "Electronics Engineering & Developer",
+    currentFocus: "Machine Learning & Full Stack Development",
     askMeAbout: [
         "Data Analysis", "Web Development", "3D Animation", 
-        "AI Robotics", "System Design"
+        "Machine Learning", "System Design"
     ],
     funFact: "I debug with console.log() and I'm not ashamed! 😄",
     currentlyListening: "Lo-fi beats while coding 🎵"
@@ -132,11 +132,7 @@ const rajTiwari = {
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
-## 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
 
 ---
 
