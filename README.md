@@ -28,7 +28,7 @@
 
 ---
 
-## 🎭 Funny Space Animation
+## 🎭
 ```
     🌌 ✨ 🛸        👽 "Take me to your repository!"
        \ | /          
@@ -87,66 +87,11 @@ const rajTiwari = {
 
 ---
 
-## 🎯 Fun Activities & Space Missions
-
-### 🌌 Daily Space Fact Generator
-```
-🌌 Did you know?
-The International Space Station travels at 
-approximately 28,000 km/h (17,500 mph)!
-
-[Generate New Fact] 🎲
-```
-
-### 📊 Mission Progress Tracker
-```
-📊 Current Missions:
-🚀 VoltVoyage Development: ▓▓▓▓▓▓▓▓░░ 85% Complete
-🛰️ Space API Integration: ▓▓▓▓▓▓▓░░░ 70% Complete
-🌍 Community Growth: ▓▓▓▓▓▓░░░░ 60% Complete
-```
-
-### 🎮 Space Adventure Game
-```
-    Choose your mission:
-    
-    🚀 [Launch Rocket]     🛸 [Track UFO]     🌌 [Explore Galaxy]
-    
-    Current Score: Over 9000! 🌟
-```
-
----
-
 ## 🏆 Achievement Unlocked
 - 🚀 **Space Explorer**: Built a space mission tracker
 - 💻 **Code Astronaut**: 1000+ commits this year
 - 🌍 **Community Builder**: Growing #TeamSpace community
 - ⚡ **VoltVoyage Pioneer**: Founded voltvoyage.in
-
----
-
-## 🎮 Interactive Space Activities
-
-### 🎯 Asteroid Target Practice
-```
-    💥 ☄️ 💥 ☄️ 💥      Score: 2500 points!
-      \   |   /
-       \  |  /
-        \ | /
-         🚀 <- Your Ship
-    
-    Mission: Destroy incoming asteroids!
-```
-
-### 🛸 UFO Tracker
-```
-      🛸         🛸
-    /  👽  \   /  👽  \
-   ╰────────╯ ╰────────╯
-   
-   Status: 2 UFOs detected in sector 7G
-   Action: [Investigate] [Report] [Follow]
-```
 
 ---
 
@@ -165,7 +110,7 @@ approximately 28,000 km/h (17,500 mph)!
 
 | Mission | Status | Next Milestone |
 |---------|--------|----------------|
-| 🚀 VoltVoyage V2.0 | `In Development` | Advanced Tracking |
+| 🚀 VOLTVOYAGE.in | `In Development` | Advanced Tracking |
 | 🛰️ Space Data API | `Active` | Real-time Updates |
 | 🌍 Community Growth | `Ongoing` | 1000 Members Goal |
 
@@ -176,7 +121,6 @@ approximately 28,000 km/h (17,500 mph)!
   
   **"Exploring the cosmos, one line of code at a time! 🚀✨"**
   
-  *Ready to join the space exploration journey? Connect with #TeamSpace!*
 </div>
 
 ---
