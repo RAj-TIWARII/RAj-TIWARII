@@ -16,10 +16,10 @@
 ```javascript
 const rajTiwari = {
     location: "India 🇮🇳",
-    currentFocus: "Machine Learning & Full Stack Development",
+    currentFocus: "Electronics Engineering & Developer",
     askMeAbout: [
         "Data Analysis", "Web Development", "3D Animation", 
-        "Machine Learning", "System Design"
+        "AI Robotics", "System Design"
     ],
     funFact: "I debug with console.log() and I'm not ashamed! 😄",
     currentlyListening: "Lo-fi beats while coding 🎵"
