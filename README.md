@@ -1,11 +1,22 @@
-# 🚀 Raj Tiwari - Space Mission Explorer & Electronic Engineer
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/1016143/187770506-39e896ca-5495-4695-94c9-6976a4ef0445.gif" width="50"/>
   
-  **Electronic Engineer | Developer | Space Missions Explorer | voltvoyage.in Community #TeamSpace**
+  # 👋 Hey! I'm Raj Tiwari
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Electronic+Engineer;Developer;Space+Missions+Explorer;voltvoyage.in+Community+%23TeamSpace" alt="Typing Animation"/>
   
   <img align='right' src="https://i.gifer.com/6tXM.gif" width="230">
+  
+  <!-- Funny Animation -->
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</div>
+
+<!-- Visitor Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=YourGitHubUsername.YourGitHubUsername" alt="Visitors"/>
 </div>
 
 ---
@@ -17,28 +28,16 @@
 
 ---
 
-## 🎮 Interactive Corner
-
-### ⚽ Football Goal Game
+## 🎭 Funny Space Animation
 ```
-    |￣￣￣￣￣￣￣￣￣￣￣|
-    |    🥅 GOAL! 🥅    |
-    |___________________|
-           ⚽ <- Click to kick!
-           
-    Score: Press ⚽ to play!
-```
-
-### 🏀 Basketball Challenge
-```
-        🏀
-       /|\
-       / \
-    =========
-    |       |
-    | SCORE |
-    =========
-    Shoot your shot! 🎯
+    🌌 ✨ 🛸        👽 "Take me to your repository!"
+       \ | /          
+        \|/           🚀 
+    ════════════      /|\
+    🌍 Earth Base     /||\
+                     //||\\
+    
+    Status: Currently debugging alien code... 👨‍💻
 ```
 
 ---
@@ -88,9 +87,9 @@ const rajTiwari = {
 
 ---
 
-## 🌟 Fun Activities & Challenges
+## 🎯 Fun Activities & Space Missions
 
-### 🎲 Daily Space Fact Generator
+### 🌌 Daily Space Fact Generator
 ```
 🌌 Did you know?
 The International Space Station travels at 
@@ -99,16 +98,26 @@ approximately 28,000 km/h (17,500 mph)!
 [Generate New Fact] 🎲
 ```
 
-### 🎯 Coding Challenge Counter
+### 📊 Mission Progress Tracker
 ```
-📊 This Month's Goals:
-▓▓▓▓▓▓▓▓░░ 80% Complete
-• Space API Integration: ✅
-• 3D Visualization: ⏳
-• Mobile Optimization: ⏳
+📊 Current Missions:
+🚀 VoltVoyage Development: ▓▓▓▓▓▓▓▓░░ 85% Complete
+🛰️ Space API Integration: ▓▓▓▓▓▓▓░░░ 70% Complete
+🌍 Community Growth: ▓▓▓▓▓▓░░░░ 60% Complete
 ```
 
-### 🏆 Achievement Unlocked
+### 🎮 Space Adventure Game
+```
+    Choose your mission:
+    
+    🚀 [Launch Rocket]     🛸 [Track UFO]     🌌 [Explore Galaxy]
+    
+    Current Score: Over 9000! 🌟
+```
+
+---
+
+## 🏆 Achievement Unlocked
 - 🚀 **Space Explorer**: Built a space mission tracker
 - 💻 **Code Astronaut**: 1000+ commits this year
 - 🌍 **Community Builder**: Growing #TeamSpace community
