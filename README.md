@@ -26,19 +26,6 @@
 
 [![VoltVoyage](https://img.shields.io/badge/🚀_VoltVoyage-Space_Missions_Tracker-blue?style=for-the-badge)](https://voltvoyage.in)
 
----
-
-## 🎭
-```
-    🌌 ✨ 🛸        👽 "Take me to your repository!"
-       \ | /          
-        \|/           🚀 
-    ════════════      /|\
-    🌍 Earth Base     /||\
-                     //||\\
-    
-    Status: Currently debugging alien code... 👨‍💻
-```
 
 ---
 
