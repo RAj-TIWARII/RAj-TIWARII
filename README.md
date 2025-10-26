@@ -19,15 +19,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=YourGitHubUsername.YourGitHubUsername" alt="Visitors"/>
 </div>
 
----
-
-## 🌌 Featured Project: VoltVoyage.in
-> **Space Exploration Tracking Platform** - Track space missions, explore the cosmos, and stay updated with the latest space discoveries!
-
-[![VoltVoyage](https://img.shields.io/badge/🚀_VoltVoyage-Space_Missions_Tracker-blue?style=for-the-badge)](https://voltvoyage.in)
-
-
----
 
 ## 💫 Connect with Me
 
