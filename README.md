@@ -11,7 +11,7 @@
 ## 💫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-tiwari-822479263/)
-[![VoltVoyage](https://img.shields.io/badge/VoltVoyage-Space_Community-purple?style=for-the-badge&logo=rocket&logoColor=white)](https://voltvoyage.in)
+[![VOLTVOYAGE](https://img.shields.io/badge/VoltVoyage-Space_Community-purple?style=for-the-badge&logo=rocket&logoColor=white)](https://voltvoyage.in)
 
 ---
 
@@ -35,7 +35,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="165"/>
 </div>
 
-> Swap `YOUR_GITHUB_USERNAME` above for your actual GitHub handle — these cards pull **live** data (commits, streaks, top languages) instead of static claims.
+> Swap `RAJ-TIWARII` above for your actual GitHub handle — these cards pull **live** data (commits, streaks, top languages) instead of static claims.
 
 ---
 
