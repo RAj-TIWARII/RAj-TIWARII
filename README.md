@@ -4,6 +4,8 @@
   # 👋 Hey! I'm Raj Tiwari
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Electronic+Engineer;Developer;Space+Missions+Explorer;voltvoyage.in+Community+%23TeamSpace" alt="Typing Animation"/>
+
+  <img align="right" src="https://i.gifer.com/6tXM.gif" width="230">
 </div>
 
 ## 💫 Connect
@@ -16,6 +18,8 @@
 ## 🛰️ About Me
 
 - 🔭 Electronic Engineer & Developer, building **voltvoyage.in** — a space mission tracking platform
+- 🚀 Deep into space — **ISRO**, **Skyroot Aerospace**, and India's growing private space sector (Agnikul, Pixxel & more)
+- 🛰️ Follow launches, rocket architecture, and mission profiles across ISRO and Indian private space companies
 - 💻 Languages: `C` `C++` `Python` `JavaScript` `Java` `R` `Rust`
 - 🌐 Web: React, Node.js, Express, HTML/CSS
 - 📊 Data: NumPy, Matplotlib, Tableau, Power BI
