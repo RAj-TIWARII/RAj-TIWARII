@@ -35,7 +35,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="165"/>
 </div>
 
-> Swap `RAJ-TIWARII` above for your actual GitHub handle — these cards pull **live** data (commits, streaks, top languages) instead of static claims.
+> Swap `RAj-TIWARII` above for your actual GitHub handle — these cards pull **live** data (commits, streaks, top languages) instead of static claims.
 
 ---
 
